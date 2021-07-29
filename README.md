@@ -1,9 +1,6 @@
-### Hi geeks 👋 I'm Daniel but Just call me AgileStorm For Full-Stack Development
+### Hi geeks 👋 I'm Daniel but Just call me AgileStorm For Full-Stack Development{js}
 
-<!--
-**Maishmaina/Maishmaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Quanta POS project
 - 🌱 I’m currently learning ...React Native, Nextjs, 
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Mern {Mongodb,Expressjs,Reactjs,Node}
 - 📫 How to reach me: ... www.linkedin.com/in/danielkabirus
 - ⚡ Fun fact: ...Hired gun
--->
+
