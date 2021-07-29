@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on ...AgileStorm
 - 🤔 I’m looking for help with ...containerization vs virtualization
 - 💬 Ask me about ...Mern {Mongodb,Expressjs,Reactjs,Node}
-- 📫 How to reach me: ... www.linkedin.com/in/danielkabirus
+- 📫 How to reach me: ... danielkabirus
 - ⚡ Fun fact: ...Hired gun
 
