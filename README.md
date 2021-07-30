@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on :arrow_right:Quanta POS project
-- 🌱 I’m currently learning :arrow_right:React Native, Nextjs, 
+- 🌱 I’m currently learning :arrow_right:React Native, Nextjs,Data Science 
 - 👯 I’m looking to collaborate on :arrow_right:[AgileStorm](https://agilestorm.co.ke/)
 - 🤔 I’m looking for help with :arrow_right:containerization and virtualization
 - 💬 Ask me about :arrow_right:Mern {Mongodb,Expressjs,Reactjs,Node}
