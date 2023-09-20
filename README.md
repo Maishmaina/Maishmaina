@@ -1,11 +1,11 @@
-### Hi geeks 👋 I'm Daniel but Just call me AgileStorm For Full-Stack Development{js/java/php}
+### Hi geeks 👋 I'm Daniel but Just call me Ddev For Full-Stack Development{js/java/php}
 
 
 
-- 🔭 I’m currently working on :arrow_right:Quanta POS project
-- 🌱 I’m currently learning :arrow_right:React Native, Nextjs,Vuejs 
-- 👯 I’m looking to collaborate on :arrow_right:[AgileStorm](https://agilestorm.co.ke/)
-- 🤔 I’m looking for help with :arrow_right: Kotlin and Flutter
+- 🔭 I’m currently working on :arrow_right:TechSuluhu
+- 🌱 I’m currently learning :arrow_right:Flutter 
+- 👯 I’m looking to collaborate on :arrow_right:[Techsuluhu](https://techsoluhu.co.ke/)
+- 🤔 I’m looking for help with :arrow_right: Python
 - 💬 Ask me about :arrow_right:Mern {Mongodb,Expressjs,Reactjs,Node},LAMP{Linux, Apache, MySQL, and PHP},{Android MVVM}
 - 📫 How to reach me: ... [DanielKabirus](https://www.linkedin.com/in/danielkabirus)
 - ⚡ Fun fact: :arrow_right: Hired gun
