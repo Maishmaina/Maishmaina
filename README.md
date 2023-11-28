@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on :arrow_right:TechSuluhu
 - 🌱 I’m currently learning :arrow_right:Flutter 
-- 👯 I’m looking to collaborate on :arrow_right:[Techsuluhu](https://techsoluhu.co.ke/)
+- 👯 I’m looking to collaborate on :arrow_right:[Techsuluhu](https://techsoluhu.com/)
 - 🤔 I’m looking for help with :arrow_right: Python
 - 💬 Ask me about :arrow_right:Mern {Mongodb,Expressjs,Reactjs,Node},LAMP{Linux, Apache, MySQL, and PHP},{Android MVVM}
 - 📫 How to reach me: ... [DanielKabirus](https://www.linkedin.com/in/danielkabirus)
