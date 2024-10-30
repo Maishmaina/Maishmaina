@@ -52,6 +52,21 @@
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+  <table>
+    <thead>
+      <tr>
+        <th>Streaks</th>
+        <th>Stats</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td valign="top"><img width="600px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Maishmaina&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
+        <td valign="top"><img width="600px" src="https://github-readme-stats.vercel.app/api?username=Maishmaina&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>
+    </tr>
+    </tbody>
+  </table>
+
 [![wakatime](https://wakatime.com/badge/user/5dc2db59-be9f-4b3f-910d-38984690f280.svg)](https://wakatime.com/@5dc2db59-be9f-4b3f-910d-38984690f280)
 
 ![Maishmaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maishmaina&theme=radical&show_icons=true&count_private=true)
