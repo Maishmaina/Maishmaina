@@ -1,12 +1,10 @@
-### Hi geeks 👋 I'm Daniel but Just call me Ddev For Full-Stack Development{js/java/php}
+### Hi geeks 👋 I'm Daniel Full-Stack Development{js/java/python/php}
 
 
 
-- 🔭 I’m currently working on :arrow_right:TechSuluhu
-- 🌱 I’m currently learning :arrow_right:Flutter 
-- 👯 I’m looking to collaborate on :arrow_right:[Techsuluhu](https://techsoluhu.com/)
-- 🤔 I’m looking for help with :arrow_right: Python
-- 💬 Ask me about :arrow_right:Mern {Mongodb,Expressjs,Reactjs,Node},LAMP{Linux, Apache, MySQL, and PHP},{Android MVVM}
+- 🔭 I’m currently working on :arrow_right:Zurihr
+- 👯 successful project :arrow_right:[Zuri HR](https://zurihr.com/)
+- 💬 Ask me about :arrow_right:Mern {Mongodb,Expressjs,Vuejs/Reactjs,Node},LAMP{Linux, Apache, MySQL, and PHP},{Android MVVM}
 - 📫 How to reach me: ... [DanielKabirus](https://www.linkedin.com/in/danielkabirus)
 - ⚡ Fun fact: :arrow_right: Code Golf
 
